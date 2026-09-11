@@ -1,7 +1,7 @@
-# Chemistry Internal Assessment — Anti-Corrosion Coatings on Galvanised Steel
+# Anti-Corrosion Coatings on Galvanised Steel Investigation
 
 **File:** `corrosion-coatings.pdf`
-**Subject:** IB Chemistry
+**Subject:** Chemistry
 
 ## Research Question
 How effective are different coatings (chain lubricant, vegetable oil, coconut oil, WD-40, and no coating) at preventing corrosion of a galvanised steel screw when exposed to 0.1 mol dm⁻³ sulfuric acid, as measured by the percentage difference in the screw's width, length, and mass using a digital calliper and an electronic balance?
